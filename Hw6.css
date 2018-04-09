@@ -1,0 +1,45 @@
+﻿body
+{ 
+    background-color: forestgreen;
+}
+
+p.banner {
+    width: 1500px;
+    height: 270px;
+    padding: 1px;
+    border-radius: 10px;
+    background-color: goldenrod;
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#circle
+{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+
+.col 
+{
+    float: left;
+    width: 33%;
+    position: fixed padding: 1px;
+    border-radius: 10px;
+    height: 1000px;
+    margin: 1px;
+}
+
+background
+{
+    color: deeppink;
+}
+
+.jumbotron 
+{
+    color: darkgoldenrod;
+}
